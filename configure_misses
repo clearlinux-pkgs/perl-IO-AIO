@@ -1,6 +1,6 @@
 Configure miss: cc option to accept ISO C89
 Configure miss: posix_close
+Configure miss: st_xtimensec
 Configure miss: st_birthtimensec
 Configure miss: st_birthtimespec
 Configure miss: st_gen
-Configure miss: st_xtimensec
