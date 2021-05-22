@@ -4,7 +4,7 @@
 #
 Name     : perl-IO-AIO
 Version  : 4.75
-Release  : 10
+Release  : 11
 URL      : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/IO-AIO-4.75.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/IO-AIO-4.75.tar.gz
 Summary  : unknown
