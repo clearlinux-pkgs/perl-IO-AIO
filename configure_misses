@@ -1,4 +1,4 @@
-Configure miss: cc option to accept ISO C89
+Configure miss: cc option to enable C11 features
 Configure miss: posix_close
 Configure miss: st_birthtimensec
 Configure miss: st_birthtimespec
