@@ -46,7 +46,12 @@ TODO: write more abpout the thread model, maybe bump some defaults?
 TODO: io_uring, but it's so broken  :/
 TODO: allow import of fds as aio_wd
 TODO: close_range
-TODO: move_mount, open_tree
+TODO: move_mount, open_tree, mount
+
+4.77 Mon 05 Sep 2022 02:03:38 CEST
+	- add MFD_HUGETLB_2MB and MFD_HUGETLB_1GB constants.
+        - add fexecve.
+        - add lots of missing functions to @EXPORT_OK.
 
 4.76 Tue Jul 27 20:45:01 CEST 2021
 	- add autoconf test for siginfo_t, which is, of course, not
