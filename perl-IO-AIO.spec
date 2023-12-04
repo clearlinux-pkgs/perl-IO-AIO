@@ -5,7 +5,7 @@
 #
 Name     : perl-IO-AIO
 Version  : 4.8
-Release  : 24
+Release  : 25
 URL      : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/IO-AIO-4.8.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/IO-AIO-4.8.tar.gz
 Summary  : unknown
