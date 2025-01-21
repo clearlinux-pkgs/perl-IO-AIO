@@ -7,7 +7,7 @@
 #
 Name     : perl-IO-AIO
 Version  : 4.81
-Release  : 28
+Release  : 29
 URL      : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/IO-AIO-4.81.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/IO-AIO-4.81.tar.gz
 Summary  : unknown
